@@ -123,6 +123,9 @@ The character in Figure 2 is wearing the clothing and accessories from Figure 1.
 
 ### Case 6: Super Resolution for Vintage Anime (by @歸藏)
 
+
+[[**Try it Now**](https://supermaker.ai/image/ai-photo-enhancer/)]
+
 [[**Original Link**](https://x.com/op7418/status/1960540798573011209)]
 
 **Prompt**
@@ -236,10 +239,9 @@ Have these two characters fight using the pose from Figure 3.Add appropriate vis
 
 ## Usage Tips
 
-1. [How to optimize Nano Banana performance?](https://supermaker.ai/guides/performance) by @SuperMaker
-2. [Best Practices Guide](https://supermaker.ai/guides/best-practices) by @SuperMaker
-3. [Troubleshooting Manual](https://supermaker.ai/guides/troubleshooting) by @SuperMaker
-4. [Advanced Configuration Tutorial](https://supermaker.ai/guides/advanced-config) by @SuperMaker
+1. [Nano Banana: The Ultimate AI Model for Image Generation and Editing in 2025](https://supermaker.ai/image/blog/nano-banana-the-ultimate-ai-model-for-image-generation-and-editing-in-2025/) by @SuperMaker
+2. [How to create lifelike action figures using nano bananas](https://supermaker.ai/image/blog/how-to-create-lifelike-action-figures-using-nano-bananas/) by @SuperMaker
+
 
 ## Acknowledgments
 
